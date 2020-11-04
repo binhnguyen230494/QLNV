@@ -1,0 +1,16 @@
+C:\Users\rrrrr\source\repos\QLNV.API\QLNV.BAL\bin\Debug\netstandard2.0\QLNV.BAL.deps.json
+C:\Users\rrrrr\source\repos\QLNV.API\QLNV.BAL\bin\Debug\netstandard2.0\QLNV.BAL.dll
+C:\Users\rrrrr\source\repos\QLNV.API\QLNV.BAL\bin\Debug\netstandard2.0\QLNV.BAL.pdb
+C:\Users\rrrrr\source\repos\QLNV.API\QLNV.BAL\obj\Debug\netstandard2.0\QLNV.BAL.AssemblyInfoInputs.cache
+C:\Users\rrrrr\source\repos\QLNV.API\QLNV.BAL\obj\Debug\netstandard2.0\QLNV.BAL.AssemblyInfo.cs
+C:\Users\rrrrr\source\repos\QLNV.API\QLNV.BAL\obj\Debug\netstandard2.0\QLNV.BAL.csproj.CoreCompileInputs.cache
+C:\Users\rrrrr\source\repos\QLNV.API\QLNV.BAL\obj\Debug\netstandard2.0\QLNV.BAL.dll
+C:\Users\rrrrr\source\repos\QLNV.API\QLNV.BAL\obj\Debug\netstandard2.0\QLNV.BAL.pdb
+C:\Users\rrrrr\source\repos\QLNV.API\QLNV.BAL\bin\Debug\netstandard2.0\QLNV.BAL.Interface.dll
+C:\Users\rrrrr\source\repos\QLNV.API\QLNV.BAL\bin\Debug\netstandard2.0\QLNV.DAL.Interface.dll
+C:\Users\rrrrr\source\repos\QLNV.API\QLNV.BAL\bin\Debug\netstandard2.0\QLNV.Domain.dll
+C:\Users\rrrrr\source\repos\QLNV.API\QLNV.BAL\bin\Debug\netstandard2.0\QLNV.BAL.Interface.pdb
+C:\Users\rrrrr\source\repos\QLNV.API\QLNV.BAL\bin\Debug\netstandard2.0\QLNV.DAL.Interface.pdb
+C:\Users\rrrrr\source\repos\QLNV.API\QLNV.BAL\bin\Debug\netstandard2.0\QLNV.Domain.pdb
+C:\Users\rrrrr\source\repos\QLNV.API\QLNV.BAL\obj\Debug\netstandard2.0\QLNV.BAL.csprojAssemblyReference.cache
+C:\Users\rrrrr\source\repos\QLNV.API\QLNV.BAL\obj\Debug\netstandard2.0\QLNV.BAL.csproj.CopyComplete

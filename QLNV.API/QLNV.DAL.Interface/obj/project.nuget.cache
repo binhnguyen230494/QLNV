@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xekRgMHaoZsbG57qwLVSlylhtUou4PBGEjOlBou3be67JHEYczlkb1uVUXHCQKTSUKqTf2es1nvJmN3HSm+1CA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rrrrr\\source\\repos\\QLNV.API\\QLNV.DAL.Interface\\QLNV.DAL.Interface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rrrrr\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\rrrrr\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

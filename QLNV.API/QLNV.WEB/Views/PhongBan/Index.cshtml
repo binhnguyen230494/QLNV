@@ -1,0 +1,65 @@
+﻿@model IEnumerable<QLNV.WEB.Models.PhongBan.PhongBanVM>
+
+@{
+    ViewData["Title"] = "PhongBan";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@section Scripts{
+    <script>
+        setTimeout(function () {
+            $('#msgAlert').fadeOut('slow');
+        }, 2000);
+    </script>
+}
+<h1>Phong Ban</h1>
+
+<p>
+    <a class="btn btn-primary" asp-controller="PhongBan" asp-action="TaoPhongBan">TaoPhongBan</a>
+</p>
+@if (TempData["Thanhcong"] != null)
+{
+    <div id="msgAlert" class="alert alert-success">@TempData["Thanhcong"]</div>
+}
+<table class="table table-striped table-bordered table-hover">
+    <thead class="thead-dark">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MaPhongBan)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TenPhongBan)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TongSoNhanVien)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ID)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MaPhongBan)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TenPhongBan)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TongSoNhanVien)
+                </td>
+                <td>
+                    @Html.ActionLink("Sửa", "SuaPhongBan", "PhongBan", new { id = item.ID }, new { @class = "btn btn-warning" }) |
+                    @Html.ActionLink("Nhân Viên", "Index", "NhanVien", new {  id=item.ID }, new { @class = "btn btn-success" }) |
+                    @Html.ActionLink("Xóa", "XoaPhongBan", "PhongBan", new { id = item.ID }, new { @class = "btn btn-danger", onclick = "return confirm('Ban co muon xoa phong ban nay khong?')" })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

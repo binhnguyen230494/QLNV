@@ -1,0 +1,9 @@
+C:\Users\rrrrr\source\repos\QLNV.API\QLNV.Domain\bin\Debug\netstandard2.0\QLNV.Domain.deps.json
+C:\Users\rrrrr\source\repos\QLNV.API\QLNV.Domain\bin\Debug\netstandard2.0\QLNV.Domain.dll
+C:\Users\rrrrr\source\repos\QLNV.API\QLNV.Domain\bin\Debug\netstandard2.0\QLNV.Domain.pdb
+C:\Users\rrrrr\source\repos\QLNV.API\QLNV.Domain\obj\Debug\netstandard2.0\QLNV.Domain.csprojAssemblyReference.cache
+C:\Users\rrrrr\source\repos\QLNV.API\QLNV.Domain\obj\Debug\netstandard2.0\QLNV.Domain.AssemblyInfoInputs.cache
+C:\Users\rrrrr\source\repos\QLNV.API\QLNV.Domain\obj\Debug\netstandard2.0\QLNV.Domain.AssemblyInfo.cs
+C:\Users\rrrrr\source\repos\QLNV.API\QLNV.Domain\obj\Debug\netstandard2.0\QLNV.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rrrrr\source\repos\QLNV.API\QLNV.Domain\obj\Debug\netstandard2.0\QLNV.Domain.dll
+C:\Users\rrrrr\source\repos\QLNV.API\QLNV.Domain\obj\Debug\netstandard2.0\QLNV.Domain.pdb
